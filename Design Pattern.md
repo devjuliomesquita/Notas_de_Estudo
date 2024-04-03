@@ -1,1 +1,1 @@
-Design parttern ou comumente conhecido também como padrões de 
+Design parttern ou comumente conhecido também como padrões de projeto, são simples soluções já utilizadas e testadas pela comunidade que resolvem um problema comum.
