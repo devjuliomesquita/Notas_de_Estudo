@@ -1,1 +1,1 @@
-Null Object é um desi
+Null Object é um [[Design Pattern]] que tem como objetivo tratar atrubitu
