@@ -1,1 +1,1 @@
-Null Object é um [[Design Pattern]] que tem como objetivo tratar atrubitu
+Null Object é um [[Design Pattern]] que tem como objetivo tratar objetos que possam vir a ser nulos.

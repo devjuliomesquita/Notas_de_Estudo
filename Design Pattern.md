@@ -1,0 +1,1 @@
+Design parttern ou comumente conhecido também como padrões de 

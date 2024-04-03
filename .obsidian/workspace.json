@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f37828ac1f0fc26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Null Object.md",
+                "file": "Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Null Object.md",
+                "file": "Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Null Object.md"
+                "file": "Design Pattern.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e4a69d79fa907c2d",
+  "active": "3f37828ac1f0fc26",
   "lastOpenFiles": [
     "Programação/Null Object.md",
+    "Design Pattern.md",
     "Programação"
   ]
 }
